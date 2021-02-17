@@ -38,6 +38,8 @@ export const RetailerList = () => {
                 return nurseryFlowers
             }).flat()
             
+
+            // currently allows for duplicates
             const flowers = nurseryFlowersForRetailer.map( nFFR => {
                 return allFlowers.find(flower => flower.id === nFFR.flowerId)
             })

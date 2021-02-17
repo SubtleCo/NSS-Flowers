@@ -1,0 +1,29 @@
+{
+    "flowers": [
+        {
+            "id": 1,
+            "commonName": "Larkspur",
+            "color": "white"
+        },
+        {
+            "id": 2,
+            "commonName": "Lavender",
+            "color": "purple"
+        },
+        {
+            "id": 3,
+            "commonName": "Daffodil",
+            "color": "yellow"
+        },
+        {
+            "id": 4,
+            "commonName": "Lily of the Incas",
+            "color": "orange"
+        },
+        {
+            "id": 5,
+            "commonName": "Amaryllis",
+            "color": "red"
+        }
+    ]
+}

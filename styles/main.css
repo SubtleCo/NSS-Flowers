@@ -32,6 +32,10 @@ h1,h2,h3,h4,h5,h6 {
 	background-color: pink;
 }
 
+.retailer--flower {
+	margin-left: 60px;
+}
+
 .retailer {
 	background-color: rgb(224, 176, 98);
 }

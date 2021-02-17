@@ -32,35 +32,63 @@
             "name": "Dave's Flower Planet",
             "city": "Austin",
             "state": "TX",
-            "address": "123 Pedal Street"
+            "address": "123 Pedal Street",
+            "distributorId": 1
         },
         {
             "id": 2,
             "name": "Anne's Pedal Palace",
             "city": "Novigrad",
             "state": "OH",
-            "address": "6548 Cool Road"
+            "address": "6548 Cool Road",
+            "distributorId": 2
         },
         {
             "id": 3,
             "name": "Tiny Dinky Daffy's Daffodil Den",
             "city": "Smalltown",
             "state": "MI",
-            "address": "1456 Water Street"
+            "address": "1456 Water Street",
+            "distributorId": 3
         },
         {
             "id": 4,
             "name": "Taylor's Swift Violets",
             "city": "Castle Town",
             "state": "Hyrule",
-            "address": "Just past the 3rd dead guardian after the old stables"
+            "address": "Just past the 3rd dead guardian after the old stables",
+            "distributorId": 1
         },
         {
             "id": 5,
             "name": "Bill's Bad Roses",
             "city": "Los Angeles",
             "state": "CA",
-            "address": "no thanks."
+            "address": "no thanks.",
+            "distributorId": 2
+        }
+    ],
+    "distributors": [
+        {
+            "id": 1,
+            "name": "Flower People",
+            "city": "San Francisco",
+            "state": "CA",
+            "address": "123 Main St"
+        },
+        {
+            "id": 2,
+            "name": "Flower Folks",
+            "city": "Boise",
+            "state": "ID",
+            "address": "456 Go Place"
+        },
+        {
+            "id": 3,
+            "name": "Plant Movers of Michigan",
+            "city": "Detroit",
+            "state": "MI",
+            "address": "85 Industrial Ave"
         }
     ]
 }

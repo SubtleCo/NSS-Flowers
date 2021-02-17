@@ -1,4 +1,5 @@
 import { FlowerList } from "./flowers/FlowerList.js"
+import { RetailerList } from "./retailers/RetailerList.js"
 
-console.log("Welcome to the main module")
 FlowerList()
+RetailerList()

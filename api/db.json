@@ -25,5 +25,42 @@
             "commonName": "Amaryllis",
             "color": "red"
         }
+    ],
+    "retailers": [
+        {
+            "id": 1,
+            "name": "Dave's Flower Planet",
+            "city": "Austin",
+            "state": "TX",
+            "address": "123 Pedal Street"
+        },
+        {
+            "id": 2,
+            "name": "Anne's Pedal Palace",
+            "city": "Novigrad",
+            "state": "OH",
+            "address": "6548 Cool Road"
+        },
+        {
+            "id": 3,
+            "name": "Tiny Dinky Daffy's Daffodil Den",
+            "city": "Smalltown",
+            "state": "MI",
+            "address": "1456 Water Street"
+        },
+        {
+            "id": 4,
+            "name": "Taylor's Swift Violets",
+            "city": "Castle Town",
+            "state": "Hyrule",
+            "address": "Just past the 3rd dead guardian after the old stables"
+        },
+        {
+            "id": 5,
+            "name": "Bill's Bad Roses",
+            "city": "Los Angeles",
+            "state": "CA",
+            "address": "no thanks."
+        }
     ]
 }

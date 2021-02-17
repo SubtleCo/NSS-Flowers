@@ -1,7 +1,7 @@
 import { Flower } from "./Flower.js"
 import { getFlowers, useFlowers } from "./FlowerProvider.js"
 
-const flowersContainer = document.querySelector('.container--flowers')
+const flowersContainer = document.querySelector('.container__flowers')
 const eventHub = document.querySelector('#container')
 
 export const FlowerList = () => {

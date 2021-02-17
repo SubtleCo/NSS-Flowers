@@ -90,5 +90,27 @@
             "state": "MI",
             "address": "85 Industrial Ave"
         }
+    ],
+    "nurseries": [
+        {
+            "id": 1,
+            "name": "Grow Bros"
+        },
+        {
+            "id": 2,
+            "name": "Fertilize This"
+        },
+        {
+            "id": 3,
+            "name": "Stem Sellers"
+        },
+        {
+            "id": 4,
+            "name": "Pedal Pushers"
+        },
+        {
+            "id": 5,
+            "name": "Thornton's Nursery"
+        }
     ]
 }

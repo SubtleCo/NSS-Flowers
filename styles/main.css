@@ -22,16 +22,17 @@ h1,h2,h3,h4,h5,h6 {
 	text-decoration: underline;
 }
 
-#container > div {
+#container > div > article {
 	padding: 5px;
 	border-radius: 5px;
+	margin: 5px;
 }
 
-.container__flowers {
+.flower {
 	background-color: pink;
 }
 
-.container__retailers {
+.retailer {
 	background-color: rgb(224, 176, 98);
 }
 
